@@ -1,4 +1,4 @@
 // Sample for loop in JavaScript
-for (let i = 0; i < 5; i++) {
-    console.log(`Iteration ${i}`);
+for (let i = 0; i < 10; i++) {
+    console.log(`Namskara **** ${i}`);
 }
