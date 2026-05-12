@@ -1,0 +1,29 @@
+[33mcommit 0128b87bf6590f056b48095bf29d4f3fc926dee3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: SudhanvaRD <sudhanva.d@intechadditive.com>
+Date:   Wed May 6 11:55:43 2026 +0530
+
+    Namskara Loop
+
+[1mdiff --git a/Chanpter02_JavascriptConcepts/02_Basics_Loop b/Chanpter02_JavascriptConcepts/02_Basics_Loop[m
+[1mindex 22436f0..ea655cd 100644[m
+[1m--- a/Chanpter02_JavascriptConcepts/02_Basics_Loop[m
+[1m+++ b/Chanpter02_JavascriptConcepts/02_Basics_Loop[m
+[36m@@ -1,4 +1,4 @@[m
+ // Sample for loop in JavaScript[m
+[31m-for (let i = 0; i < 5; i++) {[m
+[31m-    console.log(`Iteration ${i}`);[m
+[32m+[m[32mfor (let i = 0; i < 10; i++) {[m
+[32m+[m[32m    console.log(`Namskara **** ${i}`);[m
+ }[m
+[1mdiff --git a/how b/how[m
+[1mnew file mode 100644[m
+[1mindex 0000000..7811d5a[m
+[1m--- /dev/null[m
+[1m+++ b/how[m
+[36m@@ -0,0 +1,6 @@[m
+[32m+[m[32m* [33m975fa98[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m New loop sample code[m
+[32m+[m[32m* [33m3f021b9[m Add 02_Basics_Loop file[m
+[32m+[m[32m*   [33m1cf81eb[m Merge branch 'master' of https://github.com/Sudhanva123/Day01-Javascript_Introduction[m
+[32m+[m[32m[32m|[m[33m\[m[m[41m  [m
+[32m+[m[32m[32m|[m * [33m61802af[m JavascriptDay01_Basics[m
+[32m+[m[32m* [33mc80cbda[m Add JavaScript basics and concepts chapters[m
